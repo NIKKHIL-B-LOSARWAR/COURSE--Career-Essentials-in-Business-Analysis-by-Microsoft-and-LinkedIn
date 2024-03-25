@@ -32,6 +32,8 @@ Throughout the course, I gained insights into the multifaceted domain of busines
       1. Requirements Analysis
       2. Stakeholder Management
 
+    #### Certificates of the module-
+
 ### Module 3: Agile Requirements Foundations
   * Learned agile principles and backlog management techniques.
   * Explored techniques for delivering customer-centric products.
@@ -39,12 +41,22 @@ Throughout the course, I gained insights into the multifaceted domain of busines
       1. Agile Methodologies
       2. Requirements Analysis
 
+    #### Certificates of the module-
+      * Certificate by IIBA -
+      * Certificate by PMI -
+      * Certificate by LinkedIn -
+    
 ### Module 4: Business Benefits Realization Foundations
   * Explored practices for selecting and delivering high-value initiatives.
   * Introduced a five-part life cycle for business benefits realization.
     Key Skills:
     1. Business Benefits Realization
 
+    #### Certificates of the module-
+      * Certificate by IIBA -
+      * Certificate by PMI -
+      * Certificate by LinkedIn -
+    
 ### Module 5: Requirements Elicitation and Analysis
   * Discussed techniques for gathering and analyzing requirements.
   * Explored brainstorming, observation, and workshop methods.
@@ -52,6 +64,11 @@ Throughout the course, I gained insights into the multifaceted domain of busines
       1. Requirements Gathering
       2. Analysis Techniques
 
+    #### Certificates of the module-
+      * Certificate by IIBA -
+      * Certificate by PMI -
+      * Certificate by LinkedIn -
+    
 ### Module 6: Business Analysis Foundations: Business Process Modeling
   * Introduced business process modeling techniques.
   * Explored context, functional flow, and cross-functional flow diagrams.
@@ -59,6 +76,11 @@ Throughout the course, I gained insights into the multifaceted domain of busines
       1. Business Process Management
       2. Modeling Tools
 
+    #### Certificates of the module-
+      * Certificate by IIBA -
+      * Certificate by PMI -
+      * Certificate by LinkedIn -
+    
 ### Module 7: Requirements Elicitation for Business Analysts: Interviews
   * Explored interview techniques for requirement elicitation.
   * Learned planning, conducting, and analyzing interviews.
@@ -66,6 +88,11 @@ Throughout the course, I gained insights into the multifaceted domain of busines
       1. Requirements Gathering
       2. Interviewing
 
+    #### Certificates of the module-
+      * Certificate by IIBA -
+      * Certificate by PMI -
+      * Certificate by LinkedIn -
+    
 ### Module 8: Business Analyst and Project Manager Collaboration
   * Explored collaboration between BAs and PMs throughout project phases.
   * Discussed communication, risk management, and scope management.
@@ -73,12 +100,22 @@ Throughout the course, I gained insights into the multifaceted domain of busines
       1. Project Management
       2. Cross-functional Collaborations
 
+    #### Certificates of the module-
+      * Certificate by IIBA -
+      * Certificate by PMI -
+      * Certificate by LinkedIn -
+    
 ### Module 9: Project Management Foundations: Requirements
   * Introduced a 10-step process for managing project requirements.
   * Explored stakeholder analysis, requirement prioritization, and change management.
     Key Skills:
       1. Requirements Management
 
+    #### Certificates of the module-
+      * Certificate by IIBA -
+      * Certificate by PMI -
+      * Certificate by LinkedIn -
+    
 ### Module 10: Managing Projects with Microsoft 365
   * Utilized Microsoft 365 tools for project planning and execution.
   * Explored Microsoft Lists, Planner, and Project for project management.
@@ -86,6 +123,11 @@ Throughout the course, I gained insights into the multifaceted domain of busines
       1. Microsoft 365
       2. Project Management.
 
+    #### Certificates of the module-
+      * Certificate by IIBA -
+      * Certificate by PMI -
+      * Certificate by LinkedIn -
+    
 ### Module 11: Managing Data with Microsoft 365
   * Managed data effectively using the Microsoft 365 suite.
   * Explored data collection, management, and visualization techniques.
@@ -93,9 +135,20 @@ Throughout the course, I gained insights into the multifaceted domain of busines
       1. Microsoft 365
       2. Data Management.
 
+    #### Certificates of the module-
+      * Certificate by IIBA -
+      * Certificate by PMI -
+      * Certificate by LinkedIn -
+    
 ### Module 12: Learning Data Science: Understanding the Basics
   * Introduced basic concepts of data science.
   * Explored data types, statistical analysis, and applications in business.
     Key Skills:
       1. Data Science
       2. Statistical Analysis.
+
+    #### Certificates of the module-
+      * Certificate by IIBA -
+      * Certificate by PMI -
+      * Certificate by LinkedIn -
+    
