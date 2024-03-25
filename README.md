@@ -19,7 +19,7 @@ Throughout the course, I gained insights into the multifaceted domain of busines
 ### Module 1: What Is Business Analysis?
   * Explored the components and competencies of business analysis.
   * Introduced to career paths in business analysis.
-    Key Skills: 
+    Key Skills:
       1. Business Analysis
       2. Research
 
