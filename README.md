@@ -89,7 +89,7 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 
     #### Key Skills:
       1. Requirements Gathering
-      2. Analysis Techniques
+      2. Requirements Analysis Techniques
 
     #### Certificates of the module:
     
@@ -107,6 +107,7 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
     #### Key Skills: 
       1. Business Process Management
       2. Modeling Tools
+      3. Business Analysis
 
     #### Certificates of the module:
     
@@ -123,6 +124,7 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
     #### Key Skills:
       1. Requirements Gathering
       2. Interviewing
+      3. Business Analysis
 
     #### Certificates of the module:
     
