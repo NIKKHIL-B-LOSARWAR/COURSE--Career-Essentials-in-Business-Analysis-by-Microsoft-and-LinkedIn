@@ -76,7 +76,7 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
     #### Certificates of the module:
     
       * Certificate by PMI - [Link](https://www.linkedin.com/learning/certificates/550d1a33c2dedbb84180f8da01b808f30275d445c4a867f6535414225f73cf3e)
-      * Certificate by LinkedIn - [Link](https://www.linkedin.com/learning/certificates/550d1a33c2dedbb84180f8da01b808f30275d445c4a867f6535414225f73cf3e)
+      * Certificate by LinkedIn - [Link](https://www.linkedin.com/learning/certificates/e0499633e95af89e14d6406b0772ba96765656beb2d1ef536d3782157c103263)
 <br>  
 
 ### Module 5: Requirements Elicitation and Analysis
