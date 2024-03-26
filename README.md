@@ -103,7 +103,7 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 
 ### Module 6: Business Analysis Foundations: Business Process Modeling
   * Introduced business process modeling techniques.
-  * Explored context, functional flow, and cross-functional flow diagrams.
+  * Explored context diagrams, functional flow diagrams, cross-functional flow diagrams, and process map diagrams.
 
     #### Key Skills: 
       1. Business Process Management
@@ -120,7 +120,7 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 
 ### Module 7: Requirements Elicitation for Business Analysts: Interviews
   * Explored interview techniques for requirement elicitation.
-  * Learned planning, conducting, and analyzing interviews.
+  * Learned strategic planning, conducting interview effectively, analyzing interviews, and follow-ups for sucessful elicitation of requirements.
 
     #### Key Skills:
       1. Requirements Gathering
@@ -137,7 +137,7 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 <br>   
 
 ### Module 8: Business Analyst and Project Manager Collaboration
-  * Explored collaboration between BAs and PMs throughout project phases.
+  * Explored collaboration between BAs and PMs throughout project phases, along with their responsibilities and overlapping areas.
   * Discussed communication, risk management, and scope management.
 
     #### Key Skills:
