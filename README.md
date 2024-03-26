@@ -7,6 +7,9 @@ I have successfully completed the business analysis course with a score of 90% i
 
 
 ![BAscoreLinked GIF](https://github.com/NIKKHIL-B-LOSARWAR/COURSE--Career-Essentials-in-Business-Analysis-by-Microsoft-and-LinkedIn/assets/156224014/db71606f-8b72-4788-9d6e-b419b5f7def2)
+
+![scored 90](https://github.com/NIKKHIL-B-LOSARWAR/COURSE--Career-Essentials-in-Business-Analysis-by-Microsoft-and-LinkedIn/assets/156224014/b0cdce44-e95f-4549-a0c2-e8638cc9251d)
+
 <br>
 
 ## Learning Journey Summary
