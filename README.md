@@ -3,7 +3,7 @@
 
 
 ## Course Overview:
-I have successfully completed the business analysis course named as 'Career Essentials in Business Analysis by Microsoft and LinkedIn' with a score of 90% in the final examination to earn a professional certificate by by Microsoft and LinkedIn. The course comprised 12 modules covering various aspects of business analysis including Business Analysis, Project Managements, Requirements Gathering, Agile Methodologies, Microsoft 365, Business Process Management,and Data Science Introduction.
+I have successfully completed the business analysis course named as 'Career Essentials in Business Analysis by Microsoft and LinkedIn' with a score of 90% in the final examination to earn a professional certificate by Microsoft and LinkedIn. The course comprised 12 modules covering various aspects of business analysis including Business Analysis, Project Managements, Requirements Gathering, Agile Methodologies, Microsoft 365, Business Process Management, and Data Science Introduction.
 
 
 ![scored 90](https://github.com/NIKKHIL-B-LOSARWAR/COURSE--Career-Essentials-in-Business-Analysis-by-Microsoft-and-LinkedIn/assets/156224014/b0cdce44-e95f-4549-a0c2-e8638cc9251d)
@@ -86,7 +86,7 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 
 ### Module 5: Requirements Elicitation and Analysis
   * Discussed techniques for gathering and analyzing requirements.
-  * Explored brainstorming, observation, and workshop methods.
+  * Explored brainstorming, observation, interviews, and workshop methods.
 
     #### Key Skills:
       1. Requirements Gathering
