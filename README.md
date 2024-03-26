@@ -18,6 +18,7 @@ Throughout the course, I gained insights into the multifaceted domain of busines
 
 Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/90c40a9d075db7ef0b95dc1ae845fa960d389e304d6a0a4294f62086c807de83)
 <br>
+<br>
 
 ## Module Overview:
 
@@ -29,6 +30,8 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
       2. Research
 
     #### Certificates of the module-
+
+    Certificate by IIBA - [Link](https://www.linkedin.com/learning/certificates/22162d69e67881acd002456d6f85b0be7b6c97c1164ef84252f5152345f94e3f)
 
 ### Module 2: Business Analysis Foundations
   * Identified the role and skills of a business analyst.
