@@ -13,6 +13,11 @@ I have successfully completed the business analysis course with a score of 90% i
 Throughout the course, I gained insights into the multifaceted domain of business analysis. Starting from understanding its definition as a profession, competency, and research discipline, I delved into foundational concepts like stakeholder requirements, agile methodologies, benefits realization, and project management essentials. Additionally, I acquired practical skills in requirements elicitation and analysis, business process modeling, and collaborative techniques between business analysts and project managers. The course culminated with an exploration of data management and introductory concepts in data science, providing a holistic understanding of modern business analysis practices.
 
 <br>
+<img width="907" alt="Final dashboard (screenshot)-1" src="https://github.com/NIKKHIL-B-LOSARWAR/COURSE--Career-Essentials-in-Business-Analysis-by-Microsoft-and-LinkedIn/blob/main/Microsoft%20%26%20LinkedIn%20Certificate-%20Career%20Essentials%20in%20Business%20Analysis%20by%20Microsoft%20and%20LinkedIn.pdf">
+<br>
+
+Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/90c40a9d075db7ef0b95dc1ae845fa960d389e304d6a0a4294f62086c807de83)
+<br>
 
 ## Module Overview:
 
