@@ -25,7 +25,8 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 ### Module 1: What Is Business Analysis?
   * Explored the components and competencies of business analysis.
   * Introduced to career paths in business analysis.
-    Key Skills:
+    
+    #### Key Skills:
       1. Business Analysis
       2. Research
 
@@ -39,7 +40,8 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 ### Module 2: Business Analysis Foundations
   * Identified the role and skills of a business analyst.
   * Explored requirements analysis and stakeholder identification.
-    Key Skills:
+    
+    #### Key Skills:
       1. Requirements Analysis
       2. Stakeholder Management
 
@@ -54,7 +56,8 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 ### Module 3: Agile Requirements Foundations
   * Learned agile principles and backlog management techniques.
   * Explored techniques for delivering customer-centric products.
-    Key Skills:
+
+    #### Key Skills:
       1. Agile Methodologies
       2. Requirements Analysis
 
@@ -70,7 +73,8 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 ### Module 4: Business Benefits Realization Foundations
   * Explored practices for selecting and delivering high-value initiatives.
   * Introduced a five-part life cycle for business benefits realization.
-    Key Skills:
+
+    #### Key Skills:
     1. Business Benefits Realization
 
     #### Certificates of the module:
@@ -82,7 +86,8 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 ### Module 5: Requirements Elicitation and Analysis
   * Discussed techniques for gathering and analyzing requirements.
   * Explored brainstorming, observation, and workshop methods.
-    Key Skills:
+
+    #### Key Skills:
       1. Requirements Gathering
       2. Analysis Techniques
 
@@ -98,7 +103,8 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 ### Module 6: Business Analysis Foundations: Business Process Modeling
   * Introduced business process modeling techniques.
   * Explored context, functional flow, and cross-functional flow diagrams.
-    Key Skills: 
+
+    #### Key Skills: 
       1. Business Process Management
       2. Modeling Tools
 
@@ -113,7 +119,8 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 ### Module 7: Requirements Elicitation for Business Analysts: Interviews
   * Explored interview techniques for requirement elicitation.
   * Learned planning, conducting, and analyzing interviews.
-    Key Skills:
+
+    #### Key Skills:
       1. Requirements Gathering
       2. Interviewing
 
@@ -129,7 +136,8 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 ### Module 8: Business Analyst and Project Manager Collaboration
   * Explored collaboration between BAs and PMs throughout project phases.
   * Discussed communication, risk management, and scope management.
-    Key Skills:
+
+    #### Key Skills:
       1. Project Management
       2. Cross-functional Collaborations
 
@@ -145,7 +153,8 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 ### Module 9: Project Management Foundations: Requirements
   * Introduced a 10-step process for managing project requirements.
   * Explored stakeholder analysis, requirement prioritization, and change management.
-    Key Skills:
+
+    #### Key Skills:
       1. Requirements Management
 
     #### Certificates of the module:
@@ -159,7 +168,8 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 ### Module 10: Managing Projects with Microsoft 365
   * Utilized Microsoft 365 tools for project planning and execution.
   * Explored Microsoft Lists, Planner, and Project for project management.
-    Key Skills:
+
+    #### Key Skills:
       1. Microsoft 365
       2. Project Management.
 
@@ -173,7 +183,8 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 ### Module 11: Managing Data with Microsoft 365
   * Managed data effectively using the Microsoft 365 suite.
   * Explored data collection, management, and visualization techniques.
-    Key Skills:
+
+    #### Key Skills:
       1. Microsoft 365
       2. Data Management.
 
@@ -186,7 +197,8 @@ Certificate by Microsoft & LinkedIn - [Career Essentials in Business Analysis by
 ### Module 12: Learning Data Science: Understanding the Basics
   * Introduced basic concepts of data science.
   * Explored data types, statistical analysis, and applications in business.
-    Key Skills:
+
+    #### Key Skills:
       1. Data Science
       2. Statistical Analysis.
 
